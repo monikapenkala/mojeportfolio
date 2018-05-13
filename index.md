@@ -1,3 +1,3 @@
-# witaj na mojej stronie 
+# Witaj na mojej stronie 
 
 ## Zapraszam do oglądania mojego portfolio
